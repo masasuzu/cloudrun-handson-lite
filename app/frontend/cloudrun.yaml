@@ -6,6 +6,7 @@ metadata:
     run.googleapis.com/ingress: internal-and-cloud-load-balancing 
 #    run.googleapis.com/ingress: internal-and-cloud-load-balancing
 #    run.googleapis.com/binary-authorization: default
+    run.googleapis.com/default-url-disabled: true
 spec:
   template:
     metadata:
